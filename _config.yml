@@ -4,8 +4,8 @@
 
 # Site
 title: 后屋桑的博客
-subtitle: 热爱前端却被五花八门的技术弄的晕头转向
-description:
+subtitle: 没有梦想，何必远方
+description: 前端，科技，心理，历史
 author: 后屋桑
 language: zh-CN
 timezone:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
