@@ -67,6 +67,7 @@ tags: css line-height
   	+ `img { display: block;}`
   	+ `img { vertical-align: bottom;}`
   	+ `.box{ ling-height: 0;}`
+    
 ### 六、line-height的实际应用
   - 实现大小不固定的图片、多行文字垂直居中：
   	`.box { line-heght: 300px; text-align: center;}`
