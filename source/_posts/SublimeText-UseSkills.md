@@ -19,6 +19,7 @@ tags: Sublime Text 前端 编辑器快捷键
 - 选择下一项 : **快捷键** ctrl + D 
 - 取消选择 : **快捷键** ctrl + K
 - 快速复制当前行 : **快捷键** ctrl + shift + D
+- 快速删除当前行 : **快捷键** ctrl + shift + K
 - 多选 : **快捷键** alt + F3
 - 拆行的方式 : **快捷键** ctrl + A 然后 ctrl + shift + L
 - 鼠标拖拽 : **快捷键** shift + 右键
