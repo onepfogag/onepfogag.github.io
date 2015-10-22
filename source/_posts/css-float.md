@@ -11,6 +11,7 @@ tags: css float
 
 ### 一、Float的历史——知其历史而更知当下
 - 为了实现文字环绕效果
+
 ### 二、包裹与破坏——增强浮动的感性认知
 - 包裹：1.收缩；2.坚挺；3.隔绝，及BFC，块级格式化上下文
 - 具有包裹性的其他属性：
@@ -22,9 +23,11 @@ tags: css float
     + display: none
     + position: absolute(近亲)/fixed/sticky
 - 浮动是魔鬼，新三无准则：无宽度、无图片、无浮动
+
 ### 三、被误解的float——是魔鬼还是情非得已
 - 浮动使父元素高度塌陷是标准
 - 只是单纯为了实现文字环绕效果
+
 ### 四、清除浮动——清除浮动面面观
 - 清除浮动带来的影响
 - 方法1：脚底插入`clear:both`
@@ -47,10 +50,12 @@ tags: css float
 .clearfix { *zoom: 1;}
 ```
 - clearfix应用在包含float的父元素上
+
 ### 五、float的滥用——不在其职而谋其政
 - 浮动有两大基本特性：
   1. 元素的block块状化(转头化)；
   2. 破坏性造成的紧密排列特性(去空格化)；
+
 ### 六、浮动与流体布局——更多技能更多选择
 - float + follow（inline）
 - 左浮动 + text-align:center； + 右浮动
@@ -65,6 +70,7 @@ tags: css float
     一侧：float
     另一侧：display:table-cell(IE8+)
             display:inline-block(IE7)
+            
 ### 七、浮动与兼容性——不同老爸不同命
 #### IE7问题汇总：
 - 含clear的浮动元素包裹不正确
